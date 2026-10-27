@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MAX Assistant</string>
+    <string name="accessibility_description">MAX uses accessibility only for voice-requested screen scrolling and navigation.</string>
+</resources>
